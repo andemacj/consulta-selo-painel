@@ -1,0 +1,41 @@
+{
+  "schema": "pcj.github.three-panels.v1",
+  "publication_authorized_on": "2026-11-15",
+  "source_delivery_utc": "20261114T192148Z",
+  "sisab_snapshot_sha256": "c1aaa7a778698f38044b422e0d4711dcd58b1b2b2393455c3e03a46350c16f16",
+  "source_years": [
+    2025,
+    2026
+  ],
+  "products": [
+    {
+      "product": "perfil",
+      "file": "painel_situacao_municipio.html",
+      "sha256": "4e3bd4fe47ebbd95109699f8ce23bddab2e032fd5773031fe984a281448303bb",
+      "bytes": 16952723,
+      "reference_sha256": "4e3bd4fe47ebbd95109699f8ce23bddab2e032fd5773031fe984a281448303bb",
+      "bytes_equal_to_validated_delivery": true
+    },
+    {
+      "product": "monitoramento",
+      "file": "painel_acompanhamento_atividades.html",
+      "sha256": "2dd9dd74616a724a88c8a6d97af73961f64e9763ce04421fbef6eee9c46c8a87",
+      "bytes": 15066187,
+      "reference_sha256": "2dd9dd74616a724a88c8a6d97af73961f64e9763ce04421fbef6eee9c46c8a87",
+      "bytes_equal_to_validated_delivery": true
+    },
+    {
+      "product": "comparativo",
+      "file": "painel_comparativo_estados.html",
+      "sha256": "9610a852738069c3f51ac66703373031788fbb0350f0973b5c3a11946de0f6c0",
+      "bytes": 13579220,
+      "reference_sha256": "9610a852738069c3f51ac66703373031788fbb0350f0973b5c3a11946de0f6c0",
+      "bytes_equal_to_validated_delivery": true
+    }
+  ],
+  "static_publication": true,
+  "local_source_refresh_automatically_publishes": false,
+  "human_acceptance": "PENDING",
+  "institutional_homologation": "NOT_GRANTED_BY_PUBLICATION",
+  "performance_holds": "PRESERVED"
+}
